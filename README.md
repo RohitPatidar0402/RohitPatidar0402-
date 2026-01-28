@@ -1,4 +1,4 @@
-# RohitPatidar0402# 💫 About Me:
+# RohitPatidar0402# 💫 
 Java-based backend projects using Core Java, JDBC, <br>Servlets, MySQL, and Spring Boot, along with <br>improving my DSA problem-solving skills.<br>👯 I’m looking to collaborate on<br>Java backend projects, REST APIs, database-driven applications,<br> and beginner-friendly open-source Java projects<br>🤝 I’m looking for help with<br>Advanced Java backend concepts, Spring Boot <br>best practices, system design basics, and real-world project optimization.<br>🌱 I’m currently learning<br>Spring Boot, RESTful APIs, Data Structures & <br>💬 Ask me about<br>Core Java, OOPs, JDBC, Servlets, SQL, <br>DBMS, backend development basics, and Java interview preparation.<br>⚡ Fun fact<br>I believe consistency beats talent, and<br> I enjoy turning simple Java logic into real backend applications 🚀<br>Algorithms in Java, DBMS concepts, and backend system design.<br><br>
 
 
